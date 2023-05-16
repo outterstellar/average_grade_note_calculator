@@ -1,4 +1,4 @@
-# not_ortalamasi_hesaplayici
+# Average Grade Note Calculator
 
 A new Flutter project.
 
